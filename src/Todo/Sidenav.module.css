@@ -1,0 +1,21 @@
+.buttons li {
+  list-style: none;
+  text-align: center;
+  background-color: #85586F;
+  margin: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.buttons :hover {
+  background-color:#af8098 ;
+}
+
+
+body {
+  background-color: #D0B8A8;
+  overflow-x: hidden;
+}
